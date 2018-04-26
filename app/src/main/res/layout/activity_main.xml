@@ -19,6 +19,6 @@
         android:layout_gravity="bottom|end"
         android:src="@drawable/plus"
         android:layout_margin="16dp"
-        android:onClick="cargar"/>
+        android:onClick="onClickgoToGame"/>
 
 </android.support.design.widget.CoordinatorLayout>
